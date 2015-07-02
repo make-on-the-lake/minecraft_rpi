@@ -3,6 +3,13 @@
 
 [Getting Started with Minecraft on Raspberry Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
 
+## Install Latest mcpi
+
+```
+git clone https://github.com/martinohanlon/mcpi.git
+sudo cp mcpi/mcpi/* /usr/lib/python2.7/dist-packages/mcpi/
+```
+
 ## Hello World
 
 ```
